@@ -1,0 +1,13 @@
+id,description,category,priority,urgency_score,department,area
+1,"Large pothole outside school gate; bikes nearly crash every morning.",Pothole,High,76,Roads & Infrastructure,Hyderabad
+2,"Garbage dumped beside apartment for four days and children pass here daily.",Garbage,Medium,51,Sanitation,Hyderabad
+3,"Water pipe burst and water is flooding the main road.",Water Leakage,High,74,Water Supply,Hyderabad
+4,"Open drain overflowing into houses after rainfall.",Drainage,High,72,Municipal Engineering,Hyderabad
+5,"Streetlight not working and road is completely dark at night.",Broken Streetlight,Medium,48,Electrical Services,Hyderabad
+6,"Road accident with injured people; ambulance required immediately.",Accident,Critical,100,Emergency Response,Hyderabad
+7,"Large tree fallen across road and traffic is blocked.",Fallen Tree,High,78,Disaster Management,Hyderabad
+8,"Smoke and flames coming from commercial building.",Fire,Critical,100,Emergency Response,Hyderabad
+9,"Minor litter around bus stop.",Garbage,Low,29,Sanitation,Hyderabad
+10,"Sewage manhole overflowing near market and creating slippery road.",Drainage,High,69,Municipal Engineering,Hyderabad
+11,"Broken streetlight near hospital entrance.",Broken Streetlight,High,66,Electrical Services,Hyderabad
+12,"Pothole on highway lane causing sudden braking.",Pothole,High,70,Roads & Infrastructure,Hyderabad

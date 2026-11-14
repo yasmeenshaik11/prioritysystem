@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+node_modules/
+dist/
+.expo/
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/app/ai/models/*
+*.log

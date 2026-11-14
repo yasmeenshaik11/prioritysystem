@@ -1,0 +1,2 @@
+# Optional image-training dependency. Install a TensorFlow version compatible with your Python/OS.
+# tensorflow

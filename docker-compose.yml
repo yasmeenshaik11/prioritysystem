@@ -1,0 +1,17 @@
+services:
+  db:
+    image: mysql:8.4
+    container_name: emergency-ai-mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: emergency_ai
+      MYSQL_USER: emergency
+      MYSQL_PASSWORD: emergency123
+    ports:
+      - "3307:3306"
+    volumes:
+      - emergency_ai_db:/var/lib/mysql
+
+volumes:
+  emergency_ai_db:
